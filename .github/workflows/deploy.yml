@@ -30,6 +30,6 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "johndonmoye-fresh-test1-42"
+          project: "johndonmoye-fresh-test1-44"
           entrypoint: "main.ts" # 📝 Update the entrypoint if necessary
           root: "." # 📝 Update the root if necessary
